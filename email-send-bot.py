@@ -8,10 +8,10 @@ from telegram import Bot
 
 # === НАСТРОЙКИ ===
 
-BOT_TOKEN = "8108731344:AAGV6f0M8oIb5EStn5gKX5l6Vj20NelURoc"
-TELEGRAM_USER_ID = 873499951
-EMAIL_ADDRESS = "boemishka@gmail.com"
-EMAIL_PASSWORD = "eqzi qjoj uklb ddgy"
+BOT_TOKEN = "ВАШ-ТОКЕН"
+TELEGRAM_USER_ID = 123456789
+EMAIL_ADDRESS = "example@gmail.com"
+EMAIL_PASSWORD = "ВАШ-ВНЕШНИЙ ПАРОЛЬ"
 IMAP_SERVER = "imap.gmail.com"
 
 # === ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ ===
@@ -134,3 +134,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
