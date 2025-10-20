@@ -3,4 +3,4 @@
 1. Устанавливаем библиотеку
    <p>pip install python-telegram-bot</p>
 2. Запускаем скрипт
-   python3 email-send-bot.py
+   <p>python3 email-send-bot.py</p>
